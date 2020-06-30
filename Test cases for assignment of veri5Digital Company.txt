@@ -1,0 +1,59 @@
+
+1.Test cases for "Choose Document of Your Choice"
+Verify that the "choose file " Option With the Upload Button Are Showing or not.
+Verify that the cancel button are available or not.
+Verify that the cancel button has been working or not while upload process is going on.
+Check if selected file Name Showing/Displaying or not .
+Verify that when user upload a file size more than the Specified size in MB.
+Verify that the file extension when user uploads a file is DOC, XLXS. 
+Verify that user able to upload multiple file in one time.
+Verify the upload progress bar is displayed soon after clicking the Upload Button.
+Verify the alert message displaying,when user click on upload button without selecting any file .
+Verify the alert message displaying,when user upload a wrong extension file/Unsupported file extension.
+Verify that specified file size allowed should be displayed below the link of upload.
+Verify the alert message displaying,when user upload a file more than the specified size.
+verify for session time out .
+Verify the upload button by selecting Duplicate file.
+Verify the alert message displaying upon selecting duplicate file.
+Verify the upload button disable or not when upload of a file already in progress.
+Verify the progress bar resume or not when there is any network issue.
+
+
+2.Test cases for "Take a Selfie"
+Verify that camera permission given by user to access photos from gallery.
+verify that alert message displayed if no permission Given.
+Verify that on clicking on Take selfie,it pionts to camera.
+Verify that photo uploaded size more than specified size in some KB.
+verify that photo extension when user uploads a photo is in PNG and JPGE etc.
+Verify that photo extension is of which extension.
+verify that photo selected is other than unsupported extension type.
+Verify that alert message displayed if extension not supported.
+Verify that multiple photos user able to upload.
+Verify the alert message displaying,when user click on upload button without taking an selfie.
+Verify that the cancel button are available or not.
+Verify that the cancel button has been working or not while upload process is going on.
+Verify that upload option showing once after taking selfie.
+Verify that cancel option showing during the time of upload the selfie.
+Verify that after clicking cancel option the should stay in camera app itself.
+Verify the upload button disable or not when upload of a Photo already in progress.
+Verify the progress bar resume or not when there is any network issue.
+
+3.Test cases for "Checkbox Fucntion"
+Verify Checkbox can be selected by user first.
+Verify alert message appears if document upload and selfie upload is mandate to check the checkbox.
+Verify Checkbox not selected if document choosen and No selfie uploaded.
+Verify Checkbox not selected if no document choosen and selfie uploaded.
+Verify Checkbox can be checked upon uploading document and selfie.
+Verify a robot check appears with captcha to enter it upon checking the checkbox.
+Verify if a robot check appears with captcha to enter it upon checking the checkbox.
+
+
+4.Test cases for "start Button"
+Verify with start button clicked first by the user.
+Verify the alert message appears that before clicking start the uploading process done.
+verify a progress bar started for uploading the file.
+Verify the start button progress bar resume or not when there is any network issue.
+
+
+
+
